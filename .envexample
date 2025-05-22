@@ -1,0 +1,16 @@
+CONNECTION_USER_POSTGRES=postgres
+CONNECTION_PASSWORD_POSTGRES=
+CONNECTION_DATABASE_POSTGRES=logicapeajes
+CLAVE_JWT=
+PORT=3001
+HOST=127.0.0.1
+
+#HOST=coco.casinosoft.com.co  para que funcione los ssl
+
+#//instalar el paquete dotenv "npm i dotenv" para poder leer variables de entorno  y
+#//importar en application.ts require('dotenv').config();
+
+#//importante para que el puerto sea admitido por el servidor toca avilitar el puerto usando:  sudo ufw allow 3000   sudo ufw status   sudo ufw reload
+
+
+
